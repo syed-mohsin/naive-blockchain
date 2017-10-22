@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/syed-mohsin/naive-blockchain/issues"
   },
-  "homepage": "https://github.com/syed-mohsin/naive-blockchain#readme"
+  "homepage": "https://github.com/syed-mohsin/naive-blockchain#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.2"
+  }
 }
